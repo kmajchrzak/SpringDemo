@@ -1,5 +1,6 @@
 package com.sda.springdemo;
 
+//jak zrobić zapis, odczyt w pliku
 public class FileRepository implements Repository{
     @Override
     public void read(){
